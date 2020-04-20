@@ -1,4 +1,4 @@
-#coderefactor
+# coderefactor
 
 The main goal of this homework assignement was to refactor the code of an already existing site to make it more accessible - without modifying the actual look of the front-end site.
 
